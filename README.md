@@ -16,7 +16,7 @@ support. Use it, fork it, change it.
 
 | Report | Columns per resource and month | Colored by |
 |---|---|---|
-| Utilization - Billable vs Non-Billable | Capacity, Non-Billable %, Billable %, Total % | Total %: green under 80%, yellow 80 to 100%, red over 100% |
+| Utilization - Billable vs Non-Billable | Non-Billable %, Billable %, Total % | Total %: green under 80%, yellow 80 to 100%, red over 100% |
 | Utilization - Billable Only | Capacity, Billable Hours, Billable % | Billable % against an 80% target: red under 60%, yellow 60 to 80%, green 80% and over |
 
 Both reports are grouped by resource and by calendar month of Forecast Date, and
