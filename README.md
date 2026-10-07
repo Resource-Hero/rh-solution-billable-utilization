@@ -6,7 +6,7 @@ the same full capacity. A 100% month then explains itself: client work, time off
 holiday, or internal projects.
 
 The full walkthrough, with screenshots and the click-by-click build, is in the solution post:
-[Split Utilization into Billable and Non-Billable Time](https://www.resourceheroapp.com/solutions/billable-vs-non-billable-utilization/).
+[Report on Billable and Non-Billable Utilization](https://www.resourceheroapp.com/solutions/billable-vs-non-billable-utilization/).
 
 Built as a community pattern in response to a customer request. It is not part
 of the Resource Hero managed package and is not covered by Resource Hero
